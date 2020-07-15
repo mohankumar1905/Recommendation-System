@@ -26,19 +26,19 @@ We have three data files:
 train.zip:it contains two files:
 train.csv: It contains the set of 13 challenges that were attempted by the same user in a sequence
 
-![title](p1.jpg)
+<img src="p1.jpg">
 
 challenge_data.csv: Contains attributes related to each challenge
 
-
+<img src="p2.jpg">
 
 test.zip: 
 Contains the first 10 challenges solved by a new user set (not in train) in the test set. We need to predict the next 3 sequence of challenges for these users.
-
+<img src="p3.jpg">
 
 sample_submission.csv: 
 It contains the format for submission. Only submissions in this format are acceptable. This should have the next 3 challenges for each user.
-
+<img src="p4.jpg">
 
      
 Note: The format is given by "user_id_challenge_sequence". For example, for user ID 2 you must predict the next 3 challenges with sequence 11, 12 and 13 respectively. The corresponding user_sequence would be given by 2_11, 2_12 & 2_13.
