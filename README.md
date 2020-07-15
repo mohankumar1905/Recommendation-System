@@ -26,7 +26,7 @@ We have three data files:
 train.zip:it contains two files:
 train.csv: It contains the set of 13 challenges that were attempted by the same user in a sequence
 
-
+![title](p1.jpg)
 
 challenge_data.csv: Contains attributes related to each challenge
 
