@@ -1,5 +1,5 @@
 # Recommendation-System
-This repository implementation of Recommendation System Algorithms for JanataHack: Recommendation Systems(Analytics Vidhya - Hackathon).
+This repository contains implementation of Recommendation System Algorithms for JanataHack: Recommendation Systems(Analytics Vidhya - Hackathon).
 
 
 SRGNN (Session-based Recommendation with Graph Neural Networks) -  after training for 7 epochs score Mean average precision of 0.255
